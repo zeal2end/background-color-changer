@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 function Button(props) {
-    console.log("reached " + props);
     return (
         <>
             <button
